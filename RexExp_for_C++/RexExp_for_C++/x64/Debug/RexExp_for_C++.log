@@ -1,0 +1,7 @@
+﻿  Reg_Exp.cpp
+C:\Users\24915\Desktop\c++正则表达式引擎\RexExp_for_C++\RexExp_for_C++\Reg_Exp.cpp(50,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\24915\Desktop\c++正则表达式引擎\RexExp_for_C++\RexExp_for_C++\Reg_Exp.cpp(121,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\24915\Desktop\c++正则表达式引擎\RexExp_for_C++\RexExp_for_C++\Reg_Exp.cpp(143,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\24915\Desktop\c++正则表达式引擎\RexExp_for_C++\RexExp_for_C++\Reg_Exp.cpp(546,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\24915\Desktop\c++正则表达式引擎\RexExp_for_C++\RexExp_for_C++\Reg_Exp.cpp(551,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  RexExp_for_C++.vcxproj -> C:\Users\24915\Desktop\c++正则表达式引擎\RexExp_for_C++\x64\Debug\RexExp_for_C++.exe
