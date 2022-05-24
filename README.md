@@ -50,13 +50,13 @@ rp代表重复{m,n}操作
 参与nfa构造的运算符有* + ? | ·
 ###### nfa构造 *
 ![avatar](/nfa构造0.png)
-######nfa构造 +
+###### nfa构造 +
 ![avatar](/nfa构造1.png)
-######nfa构造 ?
+###### nfa构造 ?
 ![avatar](/nfa构造2.png)
-######nfa构造 |
+###### nfa构造 |
 ![avatar](/nfa构造3.png)
-######nfa构造 ·
+###### nfa构造 ·
 ![avatar](/nfa构造4.png)
 ##### nfa转dfa(子集构造法)
 子集构造法的算法原理有非常多的资料阐述，但是值得一提的是我在编程过程遇到的两个问题
